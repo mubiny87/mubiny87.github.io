@@ -1,6 +1,5 @@
 # mubiny87.github.io
 
-<!doctype html>
 <html>
 <title> mubin's github site </title>
 <head><h1>First Experiment on Github</h1>
